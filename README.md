@@ -1,4 +1,4 @@
-
+![portada](https://github.com/gabrieldp36/delivey-app-site/assets/88417383/91c1aff6-0394-4546-a7ec-4c4d63875a52)
 
 # ComidasApp.
 
@@ -13,5 +13,5 @@ También se incorporó gestión de formatos de imágenes (avif, webp y jpg) en b
 Para visitar la web pueden hacer click en el siguiente link:
 
 ```
-
+appcomida-gdp.netlify.app
 ```
